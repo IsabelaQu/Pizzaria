@@ -2,15 +2,22 @@
 
 ## Tema: Base de Dados Pizzaria (MODELO LÓGICO)
 
-> Observando a figura acima, execute as seguintes atividades:
 > Transforme o modelo conceitual em modelo lógico;
+> 
 > Escreva o script SQL que cria o banco de dados;
+> 
 > Insira dados no banco criado 30 dados em cada entidade;
+> 
 > Crie um relatório com todas as pizzas e os pizzaiolos aptos a produzi-las;
+>
 > Crie um relatório com todas as pizzas e seus ingredientes;
+> 
 > Crie um relatório com todos os ingredientes e as pizzas onde são utilizados;
+> 
 > Crie um relatório com os sabores de todas as pizzas, o nome dos pizzaiolos que as fazem e as instruções para produzi-las;
+> 
 > Após a criação das atividades monte um repositório remoto para enviar a atividade;
+> 
 > Neste repositório, crie um README.MD com uma imagem do modelo lógico criado e seguindo o modelo explicado em aula;
 
 ## Descrição da Atividade
