@@ -1,4 +1,4 @@
-# Pizzaria
+# Pizzaria 🍕
 
 ## Tema: Base de Dados Pizzaria (MODELO LÓGICO)
 
@@ -20,7 +20,7 @@
 > 
 > Neste repositório, crie um README.MD com uma imagem do modelo lógico criado e seguindo o modelo explicado em aula;
 
-## Descrição da Atividade
+## Descrição da Atividade📓
 
 Na atividade fornecida, um modelo conceitual foi transformado em um modelo lógico de banco de dados por meio da criação de tabelas SQL. Foram criadas quatro tabelas: pizza, receita, pizzaiolo e embalagem.
 
@@ -36,7 +36,7 @@ Esses relatórios foram gerados por meio de consultas SQL que envolvem junções
 
 Em resumo, foram criadas 4 tabelas, inseridos 120 registros de dados, e executados 4 seleções (SELECTs) para gerar os relatórios solicitados na atividade.
 
-## Modelo Lógico
+## Modelo Lógico 📈
 
 ![image](https://github.com/IsabelaQu/Pizzaria/assets/124175141/c5af40ef-85f0-4d29-bc3e-8527a03ddf07)
 
